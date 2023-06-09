@@ -26,3 +26,13 @@ https://zhuanlan.zhihu.com/p/250313262
 ----
 http://turbock79.cn/?p=2341
 使用docker运行v2ray
+
+----
+
+发现，第二天，vultr延迟又发生了变化
+
+北京-->新加坡，350ms
+北京-->韩国，150ms
+北京-->日本，230ms
+北京-->印度，150ms
+北京-->洛杉矶，200ms
